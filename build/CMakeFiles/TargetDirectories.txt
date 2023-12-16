@@ -1,0 +1,4 @@
+/home/maixiaoyan/yolov5-trt/build/CMakeFiles/rebuild_cache.dir
+/home/maixiaoyan/yolov5-trt/build/CMakeFiles/edit_cache.dir
+/home/maixiaoyan/yolov5-trt/build/CMakeFiles/myplugins.dir
+/home/maixiaoyan/yolov5-trt/build/CMakeFiles/yolov5.dir
